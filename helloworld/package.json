@@ -1,0 +1,15 @@
+{
+  "name": "kalastatic-examples-helloworld",
+  "version": "1.0.0",
+  "description": "Hello World Kalastatic Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "kalastatic build",
+    "start": "kalastatic start"
+  },
+  "author": "Rob Loach (http://robloach.net)",
+  "license": "MIT",
+  "dependencies": {
+    "kalastatic": "^3.0.1"
+  }
+}
